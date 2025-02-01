@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**apkanwar/apkanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Glad you dropped by to check out my portfolio. Take a look and connect with me if you like my work!
 
-Here are some ideas to get you started:
+### `Here are a few things I tried in my projects:`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- NextJS
+- React
+- NodeJS
+- RESTful APIs
+- AWS Services
+  - AWS DynamoDB
+  - AWS Cognito
+- Google Cloud
+  - Google Firebase
+  - Google Firestore
+- Python
+- Java
