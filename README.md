@@ -5,14 +5,17 @@
 ### `Here are a few things I tried in my projects:`
 
 - NextJS
-- React
-- NodeJS
 - RESTful APIs
 - AWS Services
   - AWS DynamoDB
   - AWS Cognito
+  - ECR and ECS Deployments
 - Google Cloud
-  - Google Firebase
-  - Google Firestore
+  - Storage
+  - Firestore
+  - Authentication
 - Python
 - Java
+- MongoDB
+- Docker
+- GROQ API
